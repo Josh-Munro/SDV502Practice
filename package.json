@@ -1,0 +1,19 @@
+{
+  "name": "josh",
+  "version": "1.0.0",
+  "description": "testing123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh-Munro/SDV502Practice.git"
+  },
+  "author": "Joshy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh-Munro/SDV502Practice/issues"
+  },
+  "homepage": "https://github.com/Josh-Munro/SDV502Practice#readme"
+}
